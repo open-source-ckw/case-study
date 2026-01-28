@@ -24,10 +24,12 @@ Retry + backoff logic, and idempotent updates
 Structured logs + audit trail for debugging and reporting
 
 # Tech Stack
-Backend / Orchestration: Node.js, NestJS
-Scraping: Playwright, Crawlee, Camoufox
-Database: MySQL
-Monitoring: Run logs + status flags + enrichment logs (application-level observability)
+- Backend: Node.js, NestJS
+- Orchestration: Crawlee
+- Scraping: Playwright, Camoufox
+- Database: MySQL
+- API: GraphQL
+- Monitoring: Run logs + status flags + enrichment logs (application-level observability)
 
 # Highlight
 Two-stage pipeline: Extraction → enrichment → DB update (repeatable and modular).
