@@ -4,19 +4,12 @@ Twilio Studio WhatsApp Chatbot for Restaurant Ordering
 # Description
 Built a WhatsApp-based ordering chatbot using Twilio Studio that lets customers browse a restaurant menu, place an order using simple numeric inputs (1,2,3…), confirm or cancel instantly, and then saves the final order into the restaurant’s database via secure REST APIs. Works on WhatsApp mobile and WhatsApp Web.
 
+Watch the workflow in video on Google Drive.
+https://drive.google.com/file/d/1C7fyyipGBlT0Xcg9Qg7UFa7Kl_PYFMfI/view?usp=sharing
 
 
 Tech Workflow
 ![Tech Workflow](tech-workflow.png)
-
-Twilio Studio Console Chatboat
-<video width="320" height="240" controls>
-  <source src="twilio-studio-console-chatboat.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Error with video? Watch the same clip on Google Drive.
-https://drive.google.com/file/d/1C7fyyipGBlT0Xcg9Qg7UFa7Kl_PYFMfI/view?usp=sharing
 
 Workflow
 ![Workflow](workflow.png)
