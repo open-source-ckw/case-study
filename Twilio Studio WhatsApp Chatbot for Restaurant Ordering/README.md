@@ -9,8 +9,9 @@ Built a WhatsApp-based ordering chatbot using Twilio Studio that lets customers 
 Tech Workflow
 ![Tech Workflow](tech-workflow.png)
 
+Twilio Studio Console Chatboat
 <video width="320" height="240" controls>
-  <source src="tech-workflow.png" type="video/mp4">
+  <source src="twilio-studio-console-chatboat.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
