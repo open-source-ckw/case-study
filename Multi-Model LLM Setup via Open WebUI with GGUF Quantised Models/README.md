@@ -4,6 +4,9 @@ Multi-Model LLM Setup via Open WebUI with GGUF Quantised Models
 # Description
 Internal / SaaS Platform / AI-Tool Concept. Flexible UI to run multiple large language models (LLMs) locally or semi-locally
 
+View the working LLM in video
+![View the working LLM in video](https://www.loom.com/embed/010c506688ae4c5ab29649671cf7e027)
+
 Tech Workflow
 ![Tech Workflow](tech-workflow.png)
 
