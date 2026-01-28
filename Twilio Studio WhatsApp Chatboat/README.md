@@ -10,7 +10,7 @@ Tech Workflow
 ![Tech Workflow](tech-workflow.png)
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1C7fyyipGBlT0Xcg9Qg7UFa7Kl_PYFMfI/view?usp=sharing" type="video/mp4">
+  <source src="tech-workflow.png" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
